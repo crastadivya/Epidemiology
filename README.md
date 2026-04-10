@@ -17,8 +17,8 @@ The following assumptions are considered:
 
 ## Description of files:
 
-BE.jl and ST.jl contains code written in Julia to simulate the data with above assumptions and implement intervention to achieve goals for Berlin and Saxony-Anhalt respectively. 
-BE_inf and BE_hsp shows the results of infections and hospitalizations with and without intervention for Berlin.
-ST_inf and ST_hsp shows the results of infections and hospitalizations with and without intervention for Saxony Anhalt.
-Report.pdf is the report with problem description, methods, result, and analysis.
-Presentation.pdf is the PPT presentation of Report.
+* BE.jl and ST.jl contains code written in Julia to simulate the data with above assumptions and implement intervention to achieve goals for Berlin and Saxony-Anhalt respectively. 
+* BE_inf and BE_hsp shows the results of infections and hospitalizations with and without intervention for Berlin.
+* ST_inf and ST_hsp shows the results of infections and hospitalizations with and without intervention for Saxony Anhalt.
+* Report.pdf is the report with problem description, methods, result, and analysis.
+* Presentation.pdf is the PPT presentation of Report.
