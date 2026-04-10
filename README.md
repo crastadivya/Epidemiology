@@ -3,14 +3,14 @@ Simulated infections data for Berlin and Saxony-Anhalt states such that certain 
 
 The following assumptions are considered:
 
-## assumptions related to infections:
+## Assumptions related to infections:
   * 1/3 of infections come from Household
   * 1/3 of infections come from school and work place
   * 1/3 of infections come from other places
 
-##assumptions related to hospitalizations:
+## Assumptions related to hospitalizations:
   * 50½ of hospitalizations comes from people aged > 60
 
 ## Goal of interventions:
-  1. Reduce the total infections to half
-  2.Reduce the total hospitalizations to half
+  * Reduce the total infections to half
+  * Reduce the total hospitalizations to half
